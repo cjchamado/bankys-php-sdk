@@ -1,0 +1,23 @@
+{
+    "name": "cjchamado/bankys-php-sdk",
+    "description": "PHP SDK for Bankys/BMB API",
+    "type": "library",
+    "license": "GNU",
+    "autoload": {
+        "psr-4": {
+            "Bankys\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Claudinei Machado",
+            "email": "cjchamado@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^7.0"
+    }
+}
