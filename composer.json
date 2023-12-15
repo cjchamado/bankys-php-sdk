@@ -2,7 +2,7 @@
     "name": "cjchamado/bankys-php-sdk",
     "description": "PHP SDK for Bankys/BMB API",
     "type": "library",
-    "license": "GNU",
+    "license": "LGPL-3.0-or-later",
     "autoload": {
         "psr-4": {
             "Bankys\\": "src/"
